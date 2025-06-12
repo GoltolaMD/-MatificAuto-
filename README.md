@@ -1,6 +1,6 @@
-# 📘 matificAuto — Automação de lições Matific
+# 📘 MatificAuto — Automação de lições Matific
 
-matificAuto é um bookmarklet em JavaScript que automatiza a conclusão de atividades no site Matific, com uma interface minimalista e estilizada em vermelho escuro (#8B0000). Ideal para testes educacionais, demonstrações ou otimizações em ambientes de aprendizagem automatizados.
+MatificAuto é um bookmarklet em JavaScript que automatiza a conclusão de atividades no site Matific, com uma interface minimalista e estilizada em vermelho escuro (#8B0000). Ideal para testes educacionais, demonstrações ou otimizações em ambientes de aprendizagem automatizados.
 
 # ⚙️ Funcionalidades
 ✅ Executa automaticamente as lições visíveis no Matific.
